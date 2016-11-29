@@ -1,0 +1,11 @@
+
+LTE Papers on line:
+
+
+http://onlinelibrary.wiley.com/doi/10.1002/ett.1426/abstract
+
+http://www.researchgate.net/publication/224574962_Contrasting_Open-Loop_and_Closed-Loop_Power_Control_Performance_in_UTRAN_LTE_Uplink_by_UE_Trace_Analysis
+
+http://ieeexplore.ieee.org/search/searchresult.jsp?searchWithin=p_Authors:.QT.Hric,%20P..QT.&searchWithin=p_Author_Ids:37992244100&newsearch=true
+
+https://books.google.sk/books?id=hcuew_JMFZUC&pg=PA174&lpg=PA174&dq=UTRAN+Peter+Hric+Lienhardt&source=bl&ots=yIjWwzxeTR&sig=dBpw5iouuNy9ycHH7P3tbAingsM&hl=sk&sa=X&ei=1KyQVOq2IcrvUPLSgoAJ&ved=0CEAQ6AEwBA#v=onepage&q=UTRAN%20Peter%20Hric%20Lienhardt&f=false
